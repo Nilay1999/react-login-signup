@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+a {
+    color: #4ca0fc !important;
+}
+
+input {
+    color: white !important;
+}
+
+.login-header {
+    color: white;
+    font-size: 2.5em;
+    margin: 8%;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.col {
+    text-align: left;
+}
+
+.login-account {
+    margin: 0 45px;
+    color: white;
+    font-size: 1.1em;
+}
+.form-group {
+    color: white;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.formLabel {
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.form-control {
+    background-color: #161a2b !important;
+    border-color: rgb(224, 47, 238) !important;
+}
+.form-button {
+    background: linear-gradient(
+        286deg,
+        rgb(76, 160, 252) 23%,
+        rgb(224, 47, 238) 76%
+    );
+    color: white !important;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 280px !important;
+}
+
+.git-button {
+    background: #424242 !important;
+    color: white !important;
+
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 280px !important;
+}
+
+.icon {
+    font-size: 22px;
+    transform: translateX(-200%);
+}
+
+.google-button {
+    background: #448aff !important;
+    color: white !important;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 280px !important;
+}
+
+.divider {
+    color: white !important;
+    vertical-align: middle;
+    margin: 20px;
+}
